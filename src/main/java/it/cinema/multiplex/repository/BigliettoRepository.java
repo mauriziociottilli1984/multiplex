@@ -1,4 +1,4 @@
 package it.cinema.multiplex.repository;
 
-public interface ClienteRepository {
+public interface BigliettoRepository {
 }
